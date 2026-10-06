@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi, I'm Shridhar 👋<br>I'm currently working as web developer<br>Interested in cloud and AI. <br>Exploring projects in web development, cloud and ai. <br>💼How to reach me- 🔗 LinkedIn: https://linkedin.com/in/Shridhar Marathi<br>
+Hi, I'm Shridhar 👋<br>I'm currently working as web developer.<br>Interested in cloud and AI. <br>Exploring projects in web development, cloud and ai. <br>💼How to reach me- 🔗 LinkedIn: https://linkedin.com/in/Shridhar Marathi<br>
 
 
 ## 🌐 Socials:
